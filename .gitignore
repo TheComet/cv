@@ -1,0 +1,12 @@
+*
+!.gitignore
+!bibliography.bib
+!cv.tex
+!friggeri-cv.cls
+!Lato-Hairline.ttf
+!Lato-Light.ttf
+!texgyreheros-bolditalic.otf
+!texgyreheros-bold.otf
+!texgyreheros-italic.otf
+!texgyreheros-regular.otf
+!Makefile
